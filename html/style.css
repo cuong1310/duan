@@ -1,0 +1,35 @@
+.dau{
+    color: aliceblue;
+    
+}
+.het{
+    background: red;
+   padding-bottom: 100px;
+}
+
+.dau h1{
+    text-align: center;
+}
+.het1{
+    color: red;
+    text-align: center;
+}
+.h1 .h4 .h3{
+    margin: 20px 0;
+}
+
+
+.anh{
+    width: 100%;
+}
+c{
+    background-color: brown;
+}
+.bg{
+    width: 750px;
+    
+    border: 2px solid #c333;
+}
+.g{
+    text-align: center;
+}

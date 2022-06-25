@@ -1,4 +1,15 @@
+.header{
+    background-color: red;
+    line-height: 1.6;
+    font-size: 20px;
+}
+.gth{
+    color: aliceblue;
+    text-align: center;
+}
 .kfc {
-    text-decoration: none;
-    list-style: none;
+    background-color: red;
+}
+.c{
+    background-color: red;
 }
